@@ -1,0 +1,17 @@
+.a {
+    font-weight: bold;
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    background-clip: text;
+    -webkit-background-clip: text;
+    margin: auto;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .a:hover {
+    color: transparent;
+    transition: 500ms ease;
+  }
+  .navbar{
+    background: linear-gradient(to right, rgb(195, 195, 243), pink);
+  }
