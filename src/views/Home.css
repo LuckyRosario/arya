@@ -1,9 +1,50 @@
 body {
-    background: linear-gradient(to right, rgb(195, 195, 243), pink);
+    background: linear-gradient(to right, rgb(169, 169, 247), pink);
 }
 .a{
     color: rgb(100, 99, 99)
 }
-
+.btn-text{
+    color:blanchedalmond;
+}
+.btn-text {
+    font-weight: bold;
+    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    background-clip: text;
+    -webkit-background-clip: text;
+    margin: auto;
+    text-decoration: none;
+    font-family: 'Kumbh Sans', sans-serif;
+  }
+  
+  .btn-text:hover {
+    color: transparent;
+    transition: 500ms ease;
+  }
+.jumbotron{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 75px;
+    margin-left: 75px;
+}
+.image{
+    height: 300px;
+    width: auto;
+    border-radius: 10px;
+}
+.heading{
+    font-weight: bolder;
+        background-image: repeating-linear-gradient(5deg, violet, blue, green, yellow, orange, red);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 60px;
+        animation: 500ms ease infinite;
+    
+}
+.heading:hover {
+    color: transparent;
+    transition: 500ms ease;
+  }
  
 
