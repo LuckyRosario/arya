@@ -8,14 +8,13 @@
   .quotebox {
     height: auto;
     margin-top: 60px;
-    border: 1px rgb(145, 126, 126) solid;
-    border-radius: 10px;
     text-align: center;
    
   }
   
   #quote {
     margin: 20px;
+    font-size: x-large;
   }
   
   .fadeIn {

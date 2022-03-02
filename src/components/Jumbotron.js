@@ -8,7 +8,7 @@ export default function JumbotronExample() {
 return (
 	<>
 
-	<div >
+	<div className="mb-5" >
 	<Container>
 		<p className="heading script mb-3">You Grow Girl!</p>
         <div className="row">

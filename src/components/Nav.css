@@ -13,7 +13,8 @@
     transition: 500ms ease;
   }
   .navbar{
-    background: rgb(197, 250, 232);
+    background: linear-gradient(180deg, rgb(238, 177, 177), rgb(231, 192, 120), rgb(226, 226, 155), rgb(183, 247, 183), rgb(164, 164, 250), rgb(250, 164, 250));
+    
     height: 140px;
     margin: 0;
     min-width: 100%;
